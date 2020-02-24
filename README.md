@@ -1,2 +1,2 @@
-# Cake-Ordering--App
+# Cake-Ordering-App
 Cake ordering App using Python Tkinter
